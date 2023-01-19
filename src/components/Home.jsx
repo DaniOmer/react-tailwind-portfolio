@@ -10,7 +10,7 @@ import {
 
   const Home = () =>{
     return(
-        <div name='home' className='mt-40'>
+        <div name='home' className='pt-40'>
             {/******** Description *******/}
             <div className='text-center py-10 px-2 sm:px-0 sm:w-4/5 mx-auto mt-300 dark:text-gray-300'>
                 <h2 className='text-5xl py-2 text-teal-500 font-medium'>Omer DOTCHAMOU</h2>
